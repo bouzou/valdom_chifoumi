@@ -1,8 +1,8 @@
 # LE PROJET:
 - date    : 13.12.18
-- auteur  : didier lepicaut membre de l equipe projet valdom
+- auteur  : didier lepicaut membre de l equipe projet Valorisation des Donnees Massives
 - objet   : code pytorch d algorithmes d apprentissage statistique en Computer Vision
-- version : mode projet
+- version : mode projet, tests de codes, tests d architectures
 
 # LES LIVRABLES:
 suite a l intervention de Pierre Boudier, expert de la societe Nvidia, voici les codes de :
