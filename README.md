@@ -5,11 +5,11 @@
 - version : mode projet
 
 # LES LIVRABLES:
-suite a l intervention experte de Pierre Boudier Nvidia, voici les codes de :
+suite a l intervention experte de Pierre Boudier, societe Nvidia, voici les codes de :
 - CNN avec attaque-defense (ie pertubation des entrees et maximisation fonction de perte) - GPU - pytorch
 - AE 6 couches debruiteur d image - GPU - keras
 - VAE CNN - GPU - pytorch
 - AE - CPU - pytorch
 - AE - GPU - keras
-- 1 CNN multi-classes k=3, Chifouni - GPU - keras   ** validation accuracy = 94.23% **
-- 1 CNN multi-classes k=3, Chifouni - GPU - pytorch ** validation accuracy = 44.23% **
+- 1 CNN multi-classes k=3, Chifouni - GPU - keras   ** precisions en validation = 94.23% **
+- 1 CNN multi-classes k=3, Chifouni - GPU - pytorch ** precisions en validation = 44.23% **
