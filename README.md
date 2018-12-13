@@ -5,7 +5,7 @@
 - version : mode projet
 
 # LES LIVRABLES:
-suite a l intervention experte de Pierre Boudier, societe Nvidia, voici les codes de :
+suite a l intervention de Pierre Boudier, expret de la societe Nvidia, voici les codes de :
 - CNN avec attaque-defense (ie pertubation des entrees et maximisation fonction de perte) - GPU - pytorch
 - AE 6 couches debruiteur d image - GPU - keras
 - VAE CNN - GPU - pytorch
