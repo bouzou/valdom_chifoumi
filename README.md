@@ -1,5 +1,5 @@
 # LE PROJET:
-- date    : 13.12.18
+- date    : 14.12.18
 - auteur  : didier lepicaut membre de l equipe projet Valorisation des Donnees Massives
 - objet   : code pytorch d algorithmes d apprentissage statistique en Computer Vision
 - version : mode projet, tests de codes, tests d architectures
