@@ -6,7 +6,8 @@
 
 # LES LIVRABLES:
 suite a l intervention de Pierre Boudier, expert de la societe Nvidia, voici les codes de :
-- RNN pour Fiter une fonction sin(x)
+- RNN debruiteur y=sin(x) - GRU - CPU - pytorch
+- RNN pour Fiter une fonction sin(x) - CPU - pytorch
 - CNN avec attaque-defense (ie pertubation des entrees et maximisation fonction de perte) - GPU - pytorch
 - AE 6 couches debruiteur d image - GPU - keras
 - VAE CNN - GPU - pytorch
