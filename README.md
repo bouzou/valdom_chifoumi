@@ -20,4 +20,4 @@ suite a l intervention de Pierre Boudier, expert de la societe Nvidia, voici les
 
 2019:
 - GAN = Generative Adversarial Networks - GPU - Keras, 400 epochs, creer les chiffres 0 a 9 de MNIST
-
+- Steering Committee (project Owners) > Pytorch_PFC_valdom_DLP_28jan19.pdf
